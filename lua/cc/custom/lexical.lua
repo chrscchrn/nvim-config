@@ -1,0 +1,1 @@
+/home/chris/Development/nvim/lexical.nvim/lua/lexical.lua

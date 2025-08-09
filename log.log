@@ -1,0 +1,112 @@
+2025-07-02 00:02:10,818 - INFO - starting io server
+2025-07-02 00:02:10,818 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:02:10,818 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:02:10,819 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:02:10,819 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:02:10,821 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:02:10,823 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:02:10,844 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:02:10,849 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:02:10,971 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:02:10,983 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:02:11,012 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:02:11,017 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:02:11,156 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:02:36,675 - INFO - starting io server
+2025-07-02 00:02:36,675 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:02:36,675 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:02:36,676 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:02:36,676 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:02:36,678 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:02:36,679 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:02:36,697 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:02:36,701 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:02:36,801 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:02:36,811 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:02:36,835 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:02:36,840 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:02:36,954 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:02:59,715 - INFO - starting io server
+2025-07-02 00:02:59,715 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:02:59,715 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:02:59,716 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:02:59,716 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:02:59,717 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:02:59,719 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:02:59,737 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:02:59,741 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:02:59,845 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:02:59,855 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:02:59,878 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:02:59,883 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:02:59,998 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:09:40,293 - INFO - starting io server
+2025-07-02 00:09:40,294 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:09:40,294 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:09:40,295 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:09:40,295 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:09:40,296 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:09:40,298 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:09:40,317 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:09:40,321 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:09:40,429 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:09:40,440 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:09:40,465 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:09:40,469 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:09:40,590 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:13:52,880 - INFO - starting io server
+2025-07-02 00:13:52,880 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:13:52,880 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:13:52,881 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:13:52,881 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:13:52,883 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:13:52,886 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:13:52,913 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:13:52,918 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:13:53,037 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:13:53,048 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:13:53,077 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:13:53,082 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:13:53,238 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:14:09,064 - INFO - starting io server
+2025-07-02 00:14:09,064 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:14:09,064 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:14:09,066 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:14:09,066 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:14:09,068 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:14:09,071 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:14:09,099 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:14:09,105 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:14:09,257 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:14:09,272 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:14:09,308 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:14:09,315 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:14:09,489 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-02 00:14:40,591 - INFO - starting io server
+2025-07-02 00:14:40,591 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-02 00:14:40,591 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-02 00:14:40,592 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-02 00:14:40,592 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-02 00:14:40,595 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-02 00:14:40,597 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-02 00:14:40,624 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-02 00:14:40,631 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-02 00:14:40,762 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-02 00:14:40,772 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-02 00:14:40,799 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-02 00:14:40,803 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-02 00:14:40,925 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb
+2025-07-07 23:36:30,411 - INFO - starting io server
+2025-07-07 23:36:30,411 - INFO - root dir: /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical
+2025-07-07 23:36:30,411 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adj.exc
+2025-07-07 23:36:30,412 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/adv.exc
+2025-07-07 23:36:30,412 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/noun.exc
+2025-07-07 23:36:30,414 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/verb.exc
+2025-07-07 23:36:30,415 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adj
+2025-07-07 23:36:30,433 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.adv
+2025-07-07 23:36:30,437 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.noun
+2025-07-07 23:36:30,543 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/index.verb
+2025-07-07 23:36:30,553 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adj
+2025-07-07 23:36:30,577 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.adv
+2025-07-07 23:36:30,582 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.noun
+2025-07-07 23:36:30,699 - INFO - Loading /home/chris/.local/share/mise/installs/python/3.13.3/lib/python3.13/site-packages/lexical/data/data.verb

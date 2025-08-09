@@ -3,7 +3,7 @@ vim.api.nvim_create_autocmd('FileType', {
     pattern = 'markdown',
     callback = function()
         local client = vim.lsp.start {
-            name = 'python-lsp-chris',
+            name = 'markdown-teacher',
             cmd = { 'markdownlsp-cli' },
             root_dir = '/home/chris/Development/nvim/python-lsp/',
             on_error = function(code, _)

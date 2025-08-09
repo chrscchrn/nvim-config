@@ -31,7 +31,7 @@ require('lazy').setup({
     require 'cc.plugins.gitsigns', -- (removed hunk)
     -- require 'cc.plugins.harpoon', -- delete num?
     require 'cc.plugins.lazygit',
-    require 'cc.plugins.lint',
+    -- require 'cc.plugins.lint',
     require 'cc.plugins.lsp', -- kepmays
     require 'cc.plugins.lualine',
     require 'cc.plugins.noice',
@@ -40,7 +40,7 @@ require('lazy').setup({
     require 'cc.plugins.treesitter',
     require 'cc.plugins.trouble',
     require 'cc.plugins.whichkey',
-    require 'cc.plugins.windsurf',
+    -- require 'cc.plugins.windsurf',
     require 'cc.plugins.zenmode',
 
     -- custom
