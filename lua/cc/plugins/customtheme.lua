@@ -33,9 +33,10 @@ return {
                 custom_highlights = function(colors)
                     return {
                         Normal = { bg = colors.base, fg = '#cccccc' },
-                        Visual = { bg = '#484e5b', fg = '#ffffff' },
-                        Cursor = { fg = '#ffffff', bg = '#c7c7c7' },
+                        Visual = { bg = '#282c35' },
+                        Cursor = { fg = '#ffffff', bg = '#282c35' },
                         Comment = { fg = '#969696' },
+                        CursorLine = { bg = '#282c35' },
                     }
                 end,
             }

@@ -28,9 +28,7 @@ require('lazy').setup({
     require 'cc.plugins.fileexplorer',
     require 'cc.plugins.format',
     require 'cc.plugins.gitsigns', -- (removed hunk)
-    -- require 'cc.plugins.harpoon', -- delete num?
     require 'cc.plugins.lazygit',
-    -- require 'cc.plugins.lint',
     require 'cc.plugins.lsp', -- kepmays
     require 'cc.plugins.lualine',
     require 'cc.plugins.noice',
@@ -41,14 +39,7 @@ require('lazy').setup({
     require 'cc.plugins.whichkey',
     -- require 'cc.plugins.windsurf',
     require 'cc.plugins.zenmode',
-
-    -- custom
-    -- require 'cc.plugins.dictionary',
-    -- require 'cc.plugins.lexical',
 }, {
-
-    -- If you are using a Nerd Font: set icons to an empty table which will use the
-    -- default lazy.nvim defined Nerd Font icons, otherwise define a unicode icons table
     icons = vim.g.have_nerd_font and {} or {
         cmd = '⌘',
         config = '🛠',
