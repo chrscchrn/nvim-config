@@ -15,6 +15,10 @@ return {
             'rcarriga/nvim-notify',
         },
         config = function()
+            require('notify').setup {
+                merge_duplicates = true,
+                background_colour = '#ffffff',
+            }
             require('noice').setup {
                 lsp = {
                     -- override markdown rendering so that **cmp** and other plugins use **Treesitter**

@@ -21,11 +21,10 @@ rtp:prepend(lazypath)
 
 require('lazy').setup({
     -- Theme first, always
-    { 'f4z3r/gruvbox-material.nvim', name = 'gruvbox-material', lazy = false, priority = 1000, opts = {} },
-
     require 'cc.plugins.alpha',
     require 'cc.plugins.autopairs',
     require 'cc.plugins.completion', -- switch to rust fzf
+    require 'cc.plugins.customtheme',
     require 'cc.plugins.fileexplorer',
     require 'cc.plugins.format',
     require 'cc.plugins.gitsigns', -- (removed hunk)
@@ -48,30 +47,23 @@ require('lazy').setup({
     -- require 'cc.plugins.lexical',
 }, {
 
-    ui = {
-        -- If you are using a Nerd Font: set icons to an empty table which will use the
-        -- default lazy.nvim defined Nerd Font icons, otherwise define a unicode icons table
-        icons = vim.g.have_nerd_font and {} or {
-            cmd = '⌘',
-            config = '🛠',
-            event = '📅',
-            ft = '📂',
-            init = '⚙',
-            keys = '🗝',
-            plugin = '🔌',
-            runtime = '💻',
-            require = '🌙',
-            source = '📄',
-            start = '🚀',
-            task = '📌',
-            lazy = '💤 ',
-        },
+    -- If you are using a Nerd Font: set icons to an empty table which will use the
+    -- default lazy.nvim defined Nerd Font icons, otherwise define a unicode icons table
+    icons = vim.g.have_nerd_font and {} or {
+        cmd = '⌘',
+        config = '🛠',
+        event = '📅',
+        ft = '📂',
+        init = '⚙',
+        keys = '🗝',
+        plugin = '🔌',
+        runtime = '💻',
+        require = '🌙',
+        source = '📄',
+        start = '🚀',
+        task = '📌',
+        lazy = '💤 ',
     },
 })
-
--- require 'cc.custom.python-lsp-chris'
--- require 'cc.custom.mdlsp'
--- require 'cc.custom.dictionary'
--- require 'cc.custom.lexical'
 
 -- vim: ts=2 sts=2 sw=2 et
