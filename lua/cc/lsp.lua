@@ -64,10 +64,10 @@ return {
       ---@type table<string, vim.lsp.Config>
       local servers = {
         ruff = {},
+        basedpyright = {},
         yamlls = {},
         ansiblels = {},
         bashls = {},
-
         stylua = {},
         flake8 = {},
 
