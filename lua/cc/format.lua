@@ -17,6 +17,9 @@ return {
     opts = {
       notify_on_error = false,
       format_on_save = false,
+      formatters = {
+        ruff_format = { prepend_args = { '--line-length', '160' } },
+      },
       formatters_by_ft = {
         lua = { 'stylua' },
         python = { 'ruff_organize_imports', 'ruff_format' },

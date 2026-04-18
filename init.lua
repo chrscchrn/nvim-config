@@ -42,6 +42,7 @@ rtp:prepend(lazypath)
 require('lazy').setup({
   require 'cc.autopairs',
   require 'cc.completion',
+  require 'cc.diffview',
   require 'cc.format',
   require 'cc.gitsigns',
   require 'cc.lazygit',
@@ -53,6 +54,7 @@ require('lazy').setup({
   require 'cc.telescope',
   require 'cc.theme',
   require 'cc.todo',
+  require 'cc.surround',
   require 'cc.treesitter',
   require 'cc.trouble',
   require 'cc.whichkey',
