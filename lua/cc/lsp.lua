@@ -64,12 +64,17 @@ return {
       ---@type table<string, vim.lsp.Config>
       local servers = {
         ruff = {},
-        basedpyright = {},
+        basedpyright = {
+          settings = {
+            basedpyright = {
+              disableOrganizeImports = true,
+              analysis = { ignore = { '*' } },
+            },
+          },
+        },
         yamlls = {},
         ansiblels = {},
         bashls = {},
-        stylua = {},
-        flake8 = {},
 
         lua_ls = {
           on_init = function(client)
@@ -100,6 +105,9 @@ return {
 
       local ensure_installed = vim.tbl_keys(servers or {})
       vim.list_extend(ensure_installed, {
+        'shfmt',
+        'yamllint',
+        'prettier',
       })
 
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
