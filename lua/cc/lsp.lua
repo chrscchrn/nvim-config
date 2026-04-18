@@ -64,14 +64,7 @@ return {
       ---@type table<string, vim.lsp.Config>
       local servers = {
         ruff = {},
-        basedpyright = {
-          settings = {
-            basedpyright = {
-              disableOrganizeImports = true,
-              analysis = { ignore = { '*' } },
-            },
-          },
-        },
+        ty = {},
         yamlls = {},
         ansiblels = {},
         bashls = {},
